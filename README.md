@@ -1,8 +1,7 @@
 # 📝 TaskFlow - A Modern To-Do List
 
+> **Live Demo:** [Check out the app here!](https://girishghugare.github.io/mini_project_to_do_list_web_app/)
 A lightweight, responsive To-Do List web application built with vanilla **HTML**, **CSS**, and **JavaScript**. This project was designed to practice DOM manipulation and event handling.
-
-
 
 ## 🚀 Features
 
